@@ -1,8 +1,8 @@
 name: "Xiyang's blog"
 description: "手种堂前垂柳，别来几度春风?"
 
-avatar: https://pianfan.github.io/images/avatar.webp
-favicon: https://pianfan.github.io/images/favicon.ico
+avatar: https://raw.githubusercontent.com/Haoxiyang-bio/Xiyang.github.io/main/image/tree.jpg
+favicon: 
 
 navigation:
   - name: 首页
