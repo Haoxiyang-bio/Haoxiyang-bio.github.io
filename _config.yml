@@ -18,16 +18,16 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: xiongyunhan@outlook.com
+  email: hfxiyang@163.com
   facebook:
-  github: pianfan
+  github: Haoxiyang-bio
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
 
-footer-text: Copyright (c) 2024 Pianfan
+footer-text: Copyright (c) 2024 Xiyang
 
-url: https://pianfan.github.io
+url: https://Haoxiyang-bio
 
 permalink: /:title/
 paginate_path: /page:num/
